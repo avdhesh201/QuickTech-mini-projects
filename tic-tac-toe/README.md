@@ -9,3 +9,4 @@ Win Detection: The game automatically detects when a player has won and highligh
 Reset Option: Players can reset the game at any time to start a new game.
 
 
+![image](https://github.com/avdhesh201/QuickTech-mini-projects/assets/79453110/b26e55a9-b00d-47b7-ad70-9a73b762a267)
