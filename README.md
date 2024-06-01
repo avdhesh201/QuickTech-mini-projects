@@ -1,4 +1,4 @@
-# mini-projects
+# QuickTech
 
 Welcome to QuickTech, your go-to repository for projects designed for  revision across various technologies. this reposotary is developed for  staying updated with  the technology .
 
